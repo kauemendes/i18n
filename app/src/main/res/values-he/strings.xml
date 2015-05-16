@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">בינאום</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="lblA">תווית ראשונה</string>
+    <string name="lblB">תווית על פי</string>
+</resources>
